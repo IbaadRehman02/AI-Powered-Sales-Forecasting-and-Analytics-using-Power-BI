@@ -1,0 +1,701 @@
+Order_ID	Order_Date	Product_Category	Product_Name	Customer_Segment	Customer_Region	Gender	Age	Payment_Mode	Quantity	Unit_Price	Total_Amount	Cost_Price
+ORD10002	2022-07-20	Electronics	Smartphone	Online	West	Male	65	UPI	5	1391	6955	5578.96
+ORD10003	2022-09-26	Home Appliances	Blender	Online	East	Female	22	Online Transfer	3	2968	8904	7280.69
+ORD10004	2024-08-09	Furniture	Cabinet	Corporate	North	Female	57	Cash	10	3102	31020	26046.85
+ORD10005	2024-01-19	Office Supplies	Notebook	Online	South	Male	54	Cash	6	2075	12450	6940.52
+ORD10006	2023-07-30	Home Appliances	Refrigerator	Online	North	Male	45	Cash	6	486	2916	2504.84
+ORD10007	2022-04-20	Office Supplies	Printer Paper	Retail	South	Female	36	Card	12	2270	27240	19701.43
+ORD10008	2024-03-25	Electronics	Smartphone	Online	North	Male	57	Cash	3	294	882	679.6
+ORD10009	2022-10-03	Office Supplies	Stapler	Online	East	Female	34	Online Transfer	8	3778	30224	17584.57
+ORD10010	2025-08-13	Home Appliances	Vacuum Cleaner	Corporate	East	Male	46	Cash	2	852	1704	1262.78
+ORD10011	2024-02-08	Electronics	Laptop	Corporate	North	Male	48	UPI	10	3925	39250	33018.39
+ORD10012	2025-04-29	Electronics	Tablet	Corporate	North	Male	29	Card	11	4133	45463	29506.22
+ORD10013	2023-09-05	Office Supplies	Notebook	Retail	West	Male	52	Online Transfer	7	2554	17878	14714.76
+ORD10014	2022-02-16	Electronics	Smartphone	Retail	North	Male	54	Online Transfer	15	679	10185	8543.62
+ORD10015	2024-08-31	Office Supplies	Stapler	Retail	West	Male	59	Card	14	4608	64512	51665.35
+ORD10016	2022-11-04	Furniture	Sofa	Corporate	North	Male	24	Cash	10	167	1670	1117.09
+ORD10017	2024-12-26	Home Appliances	Refrigerator	Corporate	South	Female	27	UPI	3	3199	9597	8062.65
+ORD10018	2022-11-03	Office Supplies	Printer Paper	Corporate	North	Male	59	Online Transfer	6	1249	7494	5699.78
+ORD10019	2024-08-13	Office Supplies	Notebook	Corporate	East	Female	32	Online Transfer	9	2544	22896	18225.69
+ORD10020	2024-10-30	Home Appliances	Vacuum Cleaner	Online	North	Male	55	Online Transfer	3	4983	14949	8536.72
+ORD10021	2025-10-15	Home Appliances	Vacuum Cleaner	Online	South	Female	64	Card	5	3967	19835	16277.82
+ORD10022	2022-02-08	Home Appliances	Microwave	Online	North	Female	23	Cash	12	2432	29184	22711.63
+ORD10023	2025-06-10	Furniture	Desk	Retail	East	Female	58	Cash	11	2504	27544	19331.69
+ORD10024	2024-11-22	Electronics	Laptop	Retail	South	Female	36	UPI	14	307	4298	3696.14
+ORD10025	2023-11-27	Home Appliances	Microwave	Online	South	Male	25	Online Transfer	9	2396	21564	14172.4
+ORD10026	2023-02-22	Furniture	Sofa	Retail	South	Male	65	Cash	10	1263	12630	10716.91
+ORD10027	2025-01-21	Furniture	Sofa	Corporate	East	Female	59	Cash	15	967	14505	8802.46
+ORD10028	2024-01-12	Office Supplies	Notebook	Online	South	Female	64	Card	1	1975	1975	1178.81
+ORD10029	2023-06-06	Electronics	Laptop	Corporate	North	Male	18	UPI	14	2074	29036	22867.18
+ORD10030	2022-11-10	Furniture	Chair	Corporate	North	Female	39	Online Transfer	12	4491	53892	45347.15
+ORD10031	2022-04-27	Electronics	Tablet	Online	North	Female	25	UPI	7	4287	30009	21620.01
+ORD10032	2023-03-24	Furniture	Chair	Retail	East	Female	56	UPI	14	2143	30002	22150.07
+ORD10033	2024-02-06	Furniture	Sofa	Online	South	Male	45	UPI	13	4183	54379	31896.98
+ORD10034	2024-04-09	Office Supplies	Notebook	Online	East	Female	40	Card	5	4290	21450	14408.91
+ORD10035	2025-10-29	Home Appliances	Blender	Corporate	North	Female	40	UPI	3	527	1581	1371.3
+ORD10036	2023-01-19	Office Supplies	Stapler	Online	East	Female	54	UPI	10	3868	38680	24026.93
+ORD10037	2024-09-12	Electronics	Laptop	Online	West	Female	65	Online Transfer	3	1329	3987	2365
+ORD10038	2024-08-28	Office Supplies	Pen Set	Online	East	Female	60	Cash	4	2643	10572	8022.53
+ORD10039	2023-09-01	Office Supplies	Printer Paper	Retail	West	Female	34	Card	4	1332	5328	3816.42
+ORD10040	2023-09-26	Office Supplies	Printer Paper	Corporate	West	Male	39	Card	11	1848	20328	13960.41
+ORD10041	2022-09-22	Furniture	Desk	Corporate	South	Male	43	UPI	2	964	1928	1363.3
+ORD10042	2022-10-02	Electronics	Tablet	Retail	South	Male	51	Card	2	125	250	209.08
+ORD10043	2024-08-07	Electronics	Monitor	Corporate	North	Female	56	UPI	15	1993	29895	25213.84
+ORD10044	2024-10-04	Electronics	Tablet	Retail	South	Male	29	Online Transfer	14	1744	24416	15744.53
+ORD10045	2022-11-18	Office Supplies	Printer Paper	Retail	West	Female	41	Cash	2	2820	5640	3489.29
+ORD10046	2023-05-19	Electronics	Smartphone	Online	North	Female	23	Online Transfer	3	1663	4989	2785.32
+ORD10047	2023-07-15	Office Supplies	Stapler	Online	East	Female	20	Online Transfer	12	3138	37656	24739.34
+ORD10048	2023-04-03	Electronics	Monitor	Corporate	West	Female	56	Card	7	335	2345	1692.21
+ORD10049	2024-02-20	Electronics	Monitor	Corporate	West	Male	44	Cash	11	4143	45573	31889.48
+ORD10050	2024-09-30	Office Supplies	Pen Set	Retail	South	Male	39	Cash	4	257	1028	901.25
+ORD10051	2024-12-27	Electronics	Tablet	Retail	North	Female	23	UPI	9	3477	31293	17297.82
+ORD10052	2024-09-03	Office Supplies	Stapler	Online	West	Male	30	Online Transfer	8	3356	26848	15921.16
+ORD10053	2025-06-13	Electronics	Laptop	Online	South	Female	60	Cash	6	3024	18144	15110.55
+ORD10054	2024-02-12	Office Supplies	Pen Set	Corporate	North	Male	63	Card	11	1921	21131	15083.36
+ORD10055	2025-03-22	Home Appliances	Microwave	Online	South	Female	43	Cash	9	4639	41751	26537.21
+ORD10056	2023-11-28	Home Appliances	Vacuum Cleaner	Corporate	North	Female	57	Online Transfer	11	4147	45617	31005.65
+ORD10057	2022-09-16	Furniture	Chair	Retail	South	Male	54	UPI	7	4741	33187	28424.91
+ORD10058	2023-01-11	Home Appliances	Vacuum Cleaner	Corporate	West	Female	59	Cash	12	1684	20208	14443.36
+ORD10059	2022-02-09	Electronics	Monitor	Retail	North	Male	50	Online Transfer	15	3475	52125	34704.83
+ORD10060	2023-10-10	Electronics	Tablet	Corporate	West	Female	26	UPI	12	4350	52200	44640.93
+ORD10061	2023-10-19	Electronics	Tablet	Online	South	Female	37	Cash	4	1302	5208	3308.03
+ORD10062	2023-09-26	Office Supplies	Pen Set	Corporate	East	Female	47	Card	10	4753	47530	37879.55
+ORD10063	2022-02-08	Electronics	Monitor	Online	South	Female	54	Cash	13	4564	59332	43489.31
+ORD10064	2023-02-14	Office Supplies	Notebook	Corporate	West	Male	30	Cash	13	1172	15236	12919.18
+ORD10065	2022-09-02	Furniture	Sofa	Corporate	South	Female	53	UPI	2	3743	7486	6356.57
+ORD10066	2024-11-29	Office Supplies	Printer Paper	Retail	North	Male	65	Online Transfer	9	3227	29043	19760.19
+ORD10067	2024-01-07	Electronics	Smartphone	Retail	North	Female	60	Card	10	2717	27170	23559.99
+ORD10068	2025-01-25	Furniture	Cabinet	Online	West	Male	48	Card	15	615	9225	7562.45
+ORD10069	2024-12-09	Furniture	Sofa	Retail	East	Female	41	UPI	1	2771	2771	2159.46
+ORD10070	2024-11-03	Home Appliances	Blender	Online	South	Female	35	Online Transfer	3	1383	4149	3313.72
+ORD10071	2025-01-31	Home Appliances	Vacuum Cleaner	Retail	East	Female	20	Online Transfer	9	448	4032	2750.3
+ORD10072	2023-12-29	Home Appliances	Vacuum Cleaner	Retail	North	Female	32	Cash	1	4594	4594	3097.65
+ORD10073	2024-06-02	Furniture	Chair	Retail	West	Female	31	Cash	4	4954	19816	11995.19
+ORD10074	2025-01-08	Furniture	Cabinet	Retail	North	Male	47	UPI	14	1858	26012	22783.12
+ORD10075	2024-08-11	Furniture	Sofa	Corporate	South	Male	52	Card	7	1457	10199	7484.51
+ORD10076	2023-02-08	Office Supplies	Printer Paper	Online	East	Female	60	Card	8	1621	12968	7639.38
+ORD10077	2023-02-25	Electronics	Monitor	Corporate	East	Female	22	UPI	14	2637	36918	21278.18
+ORD10078	2024-01-30	Electronics	Monitor	Corporate	East	Male	28	UPI	2	4185	8370	5981.35
+ORD10079	2025-01-20	Electronics	Tablet	Corporate	East	Male	50	Card	11	3113	34243	20482.42
+ORD10080	2024-08-07	Electronics	Tablet	Retail	East	Female	36	UPI	1	3581	3581	2674.9
+ORD10081	2025-05-23	Home Appliances	Microwave	Retail	East	Female	48	Online Transfer	5	3517	17585	10762.03
+ORD10082	2024-08-16	Home Appliances	Microwave	Retail	West	Male	19	Online Transfer	1	720	720	578.38
+ORD10083	2022-05-12	Electronics	Monitor	Corporate	West	Male	34	UPI	1	4147	4147	3298.27
+ORD10084	2025-06-26	Furniture	Sofa	Online	South	Male	57	Cash	2	2252	4504	3380.25
+ORD10085	2022-02-06	Home Appliances	Vacuum Cleaner	Retail	West	Male	61	Card	9	1995	17955	11592.42
+ORD10086	2024-04-08	Office Supplies	Notebook	Corporate	East	Male	38	Cash	6	4063	24378	19532.11
+ORD10087	2024-11-14	Electronics	Laptop	Online	West	Male	53	Cash	15	3518	52770	32658.36
+ORD10088	2024-10-06	Home Appliances	Microwave	Corporate	East	Female	44	UPI	4	4904	19616	16191.51
+ORD10089	2025-03-09	Office Supplies	Stapler	Online	North	Male	58	Online Transfer	12	1295	15540	13646.82
+ORD10090	2022-01-16	Furniture	Chair	Corporate	East	Male	50	UPI	14	3617	50638	30319.12
+ORD10091	2024-01-23	Furniture	Sofa	Corporate	West	Male	64	Cash	10	4190	41900	26456.3
+ORD10092	2023-01-24	Home Appliances	Microwave	Online	West	Female	65	UPI	1	3540	3540	2299.35
+ORD10093	2025-08-11	Furniture	Cabinet	Corporate	South	Female	34	UPI	1	4629	4629	3693.96
+ORD10094	2022-06-12	Electronics	Monitor	Retail	East	Female	65	Card	8	3196	25568	14971.64
+ORD10095	2024-11-10	Office Supplies	Notebook	Online	East	Male	49	UPI	9	1117	10053	6875.26
+ORD10096	2024-03-04	Office Supplies	Stapler	Online	South	Female	62	Card	13	4334	56342	49126.3
+ORD10097	2024-08-22	Electronics	Monitor	Retail	North	Female	24	UPI	6	761	4566	3602.31
+ORD10098	2023-01-25	Home Appliances	Vacuum Cleaner	Retail	East	Female	63	Online Transfer	2	4646	9292	6857.07
+ORD10099	2025-10-05	Furniture	Cabinet	Retail	West	Female	64	Cash	3	3042	9126	5211.4
+ORD10100	2022-08-07	Electronics	Laptop	Retail	South	Male	61	Online Transfer	10	3308	33080	25188.91
+ORD10101	2024-01-13	Electronics	Smartphone	Retail	East	Male	56	Cash	12	2959	35508	26510.09
+ORD10102	2022-04-22	Home Appliances	Microwave	Corporate	North	Female	61	Card	14	4558	63812	37780.64
+ORD10103	2025-05-17	Office Supplies	Pen Set	Corporate	East	Male	35	Cash	13	4175	54275	43336.17
+ORD10104	2025-08-15	Office Supplies	Notebook	Corporate	West	Male	63	Cash	1	839	839	507.22
+ORD10105	2022-03-14	Office Supplies	Pen Set	Retail	West	Male	49	UPI	15	3825	57375	49962.3
+ORD10106	2023-07-11	Office Supplies	Notebook	Online	North	Female	57	Cash	9	3039	27351	23317.45
+ORD10107	2023-03-14	Electronics	Smartphone	Retail	East	Female	34	Cash	3	687	2061	1203.15
+ORD10108	2025-03-10	Furniture	Sofa	Online	West	Female	53	UPI	2	4068	8136	5767.19
+ORD10109	2022-08-27	Office Supplies	Pen Set	Retail	South	Male	38	Cash	10	1003	10030	8663.63
+ORD10110	2025-10-17	Furniture	Chair	Corporate	West	Male	61	Online Transfer	9	1352	12168	8917.64
+ORD10111	2023-04-11	Home Appliances	Refrigerator	Retail	South	Male	53	Online Transfer	5	1127	5635	4794.99
+ORD10112	2025-09-11	Office Supplies	Printer Paper	Online	North	Male	52	Card	15	2591	38865	22873.14
+ORD10113	2022-10-10	Office Supplies	Printer Paper	Retail	East	Female	54	Cash	13	124	1612	1284.43
+ORD10114	2022-10-31	Office Supplies	Notebook	Corporate	South	Female	23	UPI	7	4343	30401	21699.76
+ORD10115	2024-11-22	Electronics	Tablet	Online	North	Female	27	UPI	2	3954	7908	6749.49
+ORD10116	2023-11-15	Home Appliances	Blender	Retail	West	Male	29	Cash	8	1005	8040	4713.14
+ORD10117	2023-07-06	Electronics	Smartphone	Online	South	Female	62	Card	10	1527	15270	10758.78
+ORD10118	2022-01-31	Office Supplies	Stapler	Retail	West	Female	21	Card	5	2655	13275	9992.39
+ORD10119	2025-05-25	Furniture	Cabinet	Retail	South	Male	50	Card	4	1979	7916	5313.04
+ORD10120	2022-06-09	Electronics	Monitor	Retail	East	Female	39	Online Transfer	13	1354	17602	13717.58
+ORD10121	2025-09-24	Furniture	Chair	Corporate	East	Male	31	Cash	7	4195	29365	22826.82
+ORD10122	2025-07-27	Home Appliances	Refrigerator	Online	North	Male	24	Cash	7	218	1526	944.13
+ORD10123	2023-03-03	Office Supplies	Notebook	Corporate	South	Male	34	Card	8	4567	36536	27606.66
+ORD10124	2022-11-28	Home Appliances	Blender	Corporate	East	Male	44	Online Transfer	1	4861	4861	3032.34
+ORD10125	2025-05-26	Furniture	Desk	Online	East	Female	56	UPI	11	4992	54912	41487.6
+ORD10126	2023-11-05	Home Appliances	Refrigerator	Online	North	Female	46	Cash	11	2972	32692	25887.04
+ORD10127	2022-06-17	Home Appliances	Vacuum Cleaner	Corporate	West	Female	61	UPI	8	3996	31968	19549.96
+ORD10128	2023-03-17	Office Supplies	Pen Set	Corporate	East	Female	28	Card	3	3661	10983	6505.69
+ORD10129	2024-09-13	Home Appliances	Microwave	Online	East	Male	31	Online Transfer	2	2505	5010	3177.96
+ORD10130	2024-07-01	Home Appliances	Microwave	Online	North	Female	30	UPI	9	4164	37476	23426.03
+ORD10131	2022-11-26	Home Appliances	Microwave	Retail	East	Male	62	Cash	12	1060	12720	10435.95
+ORD10132	2022-06-18	Office Supplies	Stapler	Retail	East	Male	37	UPI	15	2317	34755	26347.95
+ORD10133	2024-02-25	Office Supplies	Stapler	Retail	West	Male	40	Card	12	4710	56520	32343.54
+ORD10134	2023-01-08	Electronics	Monitor	Corporate	West	Female	58	UPI	15	3048	45720	26080.64
+ORD10135	2023-06-01	Electronics	Laptop	Retail	South	Female	33	Online Transfer	2	4319	8638	6760.97
+ORD10136	2025-07-14	Office Supplies	Stapler	Corporate	South	Female	60	Card	7	1867	13069	10703.48
+ORD10137	2024-04-30	Office Supplies	Printer Paper	Online	South	Male	27	UPI	2	2835	5670	3257.01
+ORD10138	2024-02-11	Furniture	Cabinet	Online	West	Male	20	Online Transfer	4	4088	16352	10868.52
+ORD10139	2023-12-31	Electronics	Laptop	Corporate	West	Male	27	Online Transfer	10	3711	37110	24161.12
+ORD10140	2022-09-14	Office Supplies	Notebook	Corporate	West	Male	56	Online Transfer	8	267	2136	1302.53
+ORD10141	2024-03-22	Home Appliances	Blender	Corporate	North	Female	60	Online Transfer	9	2723	24507	20741.4
+ORD10142	2024-10-11	Home Appliances	Vacuum Cleaner	Corporate	North	Female	21	UPI	1	4470	4470	2881.54
+ORD10143	2022-02-14	Electronics	Smartphone	Online	West	Female	18	UPI	3	1902	5706	4495.85
+ORD10144	2023-06-05	Furniture	Cabinet	Corporate	East	Female	31	Card	12	4181	50172	39879.28
+ORD10145	2022-02-26	Furniture	Chair	Retail	West	Male	64	Card	1	637	637	368.44
+ORD10146	2022-01-09	Office Supplies	Printer Paper	Online	North	Male	24	Card	13	2774	36062	26942.38
+ORD10147	2024-07-25	Electronics	Monitor	Online	East	Female	21	Online Transfer	12	714	8568	6004.26
+ORD10148	2024-11-03	Home Appliances	Microwave	Corporate	East	Female	65	Online Transfer	15	4958	74370	62998.41
+ORD10149	2025-04-30	Electronics	Tablet	Online	West	Female	49	Online Transfer	3	3446	10338	8006.79
+ORD10150	2024-03-09	Furniture	Chair	Online	North	Female	47	UPI	6	4830	28980	22163.04
+ORD10151	2024-03-06	Home Appliances	Microwave	Online	North	Male	19	Online Transfer	7	521	3647	2475.45
+ORD10152	2025-06-07	Home Appliances	Blender	Retail	North	Female	53	Cash	14	1884	26376	17970.78
+ORD10153	2025-03-17	Office Supplies	Printer Paper	Corporate	West	Female	56	Card	13	4330	56290	34555.43
+ORD10154	2025-04-05	Electronics	Tablet	Online	South	Male	20	Card	2	3838	7676	6331.66
+ORD10155	2024-05-27	Office Supplies	Printer Paper	Online	West	Female	58	Cash	12	2061	24732	15267.77
+ORD10156	2022-03-27	Furniture	Desk	Corporate	East	Male	62	Online Transfer	9	2169	19521	14579.5
+ORD10157	2023-01-29	Home Appliances	Blender	Retail	South	Male	56	Card	7	1245	8715	5325.01
+ORD10158	2024-03-04	Furniture	Chair	Retail	East	Female	44	UPI	3	4450	13350	7973.62
+ORD10159	2025-08-29	Office Supplies	Notebook	Online	East	Female	62	Online Transfer	9	771	6939	3825.35
+ORD10160	2025-06-04	Home Appliances	Refrigerator	Corporate	East	Male	55	Online Transfer	3	3718	11154	7873.25
+ORD10161	2024-12-25	Home Appliances	Refrigerator	Corporate	South	Male	41	UPI	3	2937	8811	7512.05
+ORD10162	2025-05-09	Electronics	Laptop	Corporate	South	Male	48	Online Transfer	5	4579	22895	16120.71
+ORD10163	2022-08-08	Office Supplies	Pen Set	Online	East	Male	24	Cash	14	1238	17332	11756.73
+ORD10164	2025-09-08	Furniture	Cabinet	Retail	East	Male	48	Online Transfer	14	3397	47558	26166.95
+ORD10165	2023-12-06	Furniture	Cabinet	Retail	East	Male	18	Online Transfer	15	1386	20790	14768.95
+ORD10166	2025-10-03	Electronics	Laptop	Online	West	Male	32	Online Transfer	7	3594	25158	17769.82
+ORD10167	2024-06-03	Furniture	Desk	Retail	West	Female	20	Card	11	2801	30811	18268.25
+ORD10168	2025-06-10	Office Supplies	Printer Paper	Retail	East	Female	46	Online Transfer	7	833	5831	4590.59
+ORD10169	2024-05-29	Home Appliances	Vacuum Cleaner	Retail	South	Male	32	Online Transfer	7	2021	14147	9404.29
+ORD10170	2024-05-10	Home Appliances	Microwave	Corporate	East	Male	57	Card	13	4817	62621	50852.48
+ORD10171	2025-01-29	Electronics	Tablet	Online	South	Female	38	Online Transfer	4	1690	6760	4947.59
+ORD10172	2023-10-29	Furniture	Desk	Retail	West	Male	45	Card	14	3106	43484	32557.17
+ORD10173	2025-03-28	Furniture	Sofa	Retail	North	Female	24	UPI	2	4731	9462	6028.54
+ORD10174	2022-01-07	Home Appliances	Blender	Corporate	South	Female	22	Card	10	3534	35340	21212.09
+ORD10175	2025-07-26	Furniture	Sofa	Retail	South	Male	56	Card	8	954	7632	6082.33
+ORD10176	2022-04-21	Home Appliances	Microwave	Retail	West	Female	54	Cash	4	1495	5980	3395.21
+ORD10177	2024-09-11	Office Supplies	Notebook	Corporate	South	Female	32	Online Transfer	6	4295	25770	19566.92
+ORD10178	2022-05-27	Home Appliances	Microwave	Online	North	Male	44	UPI	15	2113	31695	25181.29
+ORD10179	2025-10-29	Furniture	Desk	Retail	East	Male	49	Card	5	921	4605	3241.91
+ORD10180	2024-11-15	Office Supplies	Pen Set	Online	West	Male	36	Online Transfer	13	1536	19968	15483.71
+ORD10181	2023-09-15	Furniture	Chair	Online	West	Female	41	Cash	7	4626	32382	22984.41
+ORD10182	2023-05-05	Furniture	Sofa	Retail	North	Male	34	Card	6	4574	27444	18511.66
+ORD10183	2025-03-10	Furniture	Chair	Corporate	East	Male	20	Online Transfer	15	4435	66525	54503.57
+ORD10184	2023-11-27	Home Appliances	Blender	Online	South	Female	42	Card	5	2108	10540	7802.01
+ORD10185	2023-03-28	Home Appliances	Blender	Retail	West	Female	27	UPI	15	3696	55440	38705.62
+ORD10186	2023-01-18	Office Supplies	Notebook	Corporate	West	Male	18	Cash	9	1717	15453	12311.44
+ORD10187	2025-02-05	Electronics	Laptop	Corporate	East	Female	60	UPI	2	1912	3824	3048.8
+ORD10188	2024-09-17	Office Supplies	Stapler	Online	South	Female	65	Card	6	3616	21696	12569.31
+ORD10189	2023-03-03	Home Appliances	Microwave	Online	East	Male	52	Cash	14	4669	65366	48401.59
+ORD10190	2024-02-08	Office Supplies	Printer Paper	Retail	North	Female	28	UPI	14	829	11606	8289.45
+ORD10191	2025-07-26	Electronics	Smartphone	Online	West	Male	53	Card	4	1748	6992	5986.55
+ORD10192	2024-09-21	Office Supplies	Stapler	Online	South	Female	58	Card	5	432	2160	1840.25
+ORD10193	2024-06-08	Home Appliances	Vacuum Cleaner	Retail	East	Male	44	Card	11	3225	35475	29642.54
+ORD10194	2025-02-04	Furniture	Cabinet	Retail	South	Female	45	Cash	4	3540	14160	8200.14
+ORD10195	2023-07-18	Furniture	Desk	Corporate	North	Female	38	Card	9	4647	41823	25984.74
+ORD10196	2025-07-22	Furniture	Desk	Retail	West	Female	31	Card	1	1052	1052	784.05
+ORD10197	2022-11-02	Home Appliances	Refrigerator	Corporate	East	Female	30	Cash	15	4337	65055	50839.31
+ORD10198	2025-08-27	Office Supplies	Pen Set	Corporate	West	Female	19	Cash	9	4004	36036	29471.96
+ORD10199	2024-09-27	Electronics	Monitor	Online	South	Male	52	UPI	7	1779	12453	9612.48
+ORD10200	2025-08-09	Furniture	Chair	Online	North	Male	45	Online Transfer	13	3148	40924	34553.77
+ORD10201	2023-04-01	Home Appliances	Refrigerator	Online	West	Male	29	Card	12	1636	19632	12858.12
+ORD10202	2025-06-27	Electronics	Smartphone	Corporate	North	Female	49	UPI	3	1185	3555	3011.63
+ORD10203	2025-04-28	Electronics	Laptop	Corporate	North	Female	48	Cash	12	408	4896	2811.98
+ORD10204	2023-10-07	Home Appliances	Blender	Retail	West	Male	62	Cash	4	2698	10792	7840.42
+ORD10205	2022-07-24	Home Appliances	Vacuum Cleaner	Online	West	Female	43	Card	11	3222	35442	26350.68
+ORD10206	2023-11-07	Furniture	Cabinet	Corporate	East	Female	32	Online Transfer	11	471	5181	4081.98
+ORD10207	2023-02-18	Furniture	Sofa	Online	North	Male	34	Card	6	2489	14934	9513.4
+ORD10208	2024-05-31	Electronics	Laptop	Online	North	Female	65	UPI	12	1404	16848	9609.99
+ORD10209	2023-07-27	Furniture	Sofa	Retail	West	Female	57	UPI	6	1661	9966	7985.79
+ORD10210	2022-08-05	Office Supplies	Pen Set	Retail	North	Female	40	Online Transfer	15	4530	67950	52832.38
+ORD10211	2024-01-06	Electronics	Laptop	Corporate	East	Female	31	Cash	12	4710	56520	44002.5
+ORD10212	2025-05-03	Home Appliances	Refrigerator	Corporate	East	Female	56	Card	10	3904	39040	24490.74
+ORD10213	2022-02-21	Home Appliances	Microwave	Online	West	Male	59	Online Transfer	15	3730	55950	38074.11
+ORD10214	2024-08-30	Electronics	Tablet	Corporate	North	Female	25	Online Transfer	12	3353	40236	22245.09
+ORD10215	2025-07-25	Home Appliances	Microwave	Corporate	South	Female	48	Online Transfer	14	4463	62482	39599.07
+ORD10216	2023-02-04	Home Appliances	Vacuum Cleaner	Retail	South	Male	44	Online Transfer	6	3335	20010	11881.55
+ORD10217	2024-06-25	Home Appliances	Refrigerator	Online	East	Female	23	Card	11	4309	47399	26356.96
+ORD10218	2025-04-25	Furniture	Sofa	Online	West	Male	34	Card	1	1947	1947	1314.88
+ORD10219	2023-10-31	Electronics	Tablet	Corporate	North	Male	48	Card	12	2371	28452	23150.55
+ORD10220	2024-05-08	Furniture	Cabinet	Retail	South	Female	23	Card	3	2536	7608	6018.96
+ORD10221	2024-11-06	Electronics	Tablet	Retail	West	Male	45	Card	3	4149	12447	10730.22
+ORD10222	2024-09-06	Home Appliances	Vacuum Cleaner	Corporate	South	Male	60	Online Transfer	7	4531	31717	27573.04
+ORD10223	2023-12-09	Furniture	Desk	Retail	North	Male	53	UPI	3	2831	8493	4690.22
+ORD10224	2023-09-29	Office Supplies	Notebook	Online	East	Male	30	Cash	12	4929	59148	41629.17
+ORD10225	2024-12-21	Home Appliances	Microwave	Corporate	North	Female	53	UPI	7	806	5642	3384.37
+ORD10226	2023-10-29	Home Appliances	Vacuum Cleaner	Retail	West	Male	64	Online Transfer	8	2735	21880	15484.82
+ORD10227	2025-08-25	Home Appliances	Refrigerator	Retail	South	Female	49	Cash	1	1809	1809	1460.42
+ORD10228	2023-06-08	Furniture	Cabinet	Online	West	Male	43	UPI	10	318	3180	1948.05
+ORD10229	2025-07-21	Electronics	Smartphone	Retail	East	Female	61	Card	8	4640	37120	28299.11
+ORD10230	2023-03-19	Electronics	Monitor	Online	West	Female	61	UPI	11	4599	50589	40586.6
+ORD10231	2023-09-03	Home Appliances	Refrigerator	Corporate	North	Female	56	Online Transfer	10	1713	17130	11345.62
+ORD10232	2024-08-27	Furniture	Desk	Retail	West	Male	62	Cash	13	4575	59475	46029.3
+ORD10233	2024-01-30	Furniture	Cabinet	Retail	North	Female	30	UPI	8	4597	36776	22447.83
+ORD10234	2022-10-25	Furniture	Sofa	Retail	West	Female	59	UPI	10	3805	38050	22753.32
+ORD10235	2022-08-08	Furniture	Sofa	Retail	North	Female	46	Card	6	224	1344	762.83
+ORD10236	2022-02-17	Office Supplies	Printer Paper	Corporate	West	Male	32	Cash	12	818	9816	6822.16
+ORD10237	2022-07-07	Home Appliances	Refrigerator	Online	South	Male	30	UPI	13	1112	14456	9360.51
+ORD10238	2024-11-07	Home Appliances	Refrigerator	Corporate	North	Male	39	UPI	14	4217	59038	33021.17
+ORD10239	2024-09-29	Furniture	Desk	Retail	North	Male	60	Online Transfer	4	3144	12576	10615.36
+ORD10240	2024-09-08	Home Appliances	Blender	Corporate	East	Female	50	Card	12	3598	43176	34162.25
+ORD10241	2023-06-14	Office Supplies	Printer Paper	Online	West	Male	33	Online Transfer	8	2322	18576	11223.19
+ORD10242	2024-06-29	Home Appliances	Refrigerator	Online	East	Male	48	Online Transfer	14	4157	58198	46195.3
+ORD10243	2025-01-15	Office Supplies	Notebook	Online	North	Male	64	UPI	1	4501	4501	3126.38
+ORD10244	2024-06-07	Electronics	Monitor	Online	West	Female	46	Card	12	1850	22200	13049.05
+ORD10245	2022-10-03	Furniture	Sofa	Corporate	West	Female	39	Cash	14	1641	22974	16648.65
+ORD10246	2023-07-11	Office Supplies	Pen Set	Retail	North	Female	37	Card	3	309	927	591.18
+ORD10247	2022-08-27	Furniture	Cabinet	Corporate	South	Female	21	Online Transfer	1	1593	1593	1107.63
+ORD10248	2023-12-27	Electronics	Monitor	Retail	South	Female	30	UPI	10	501	5010	3574.94
+ORD10249	2022-07-25	Furniture	Chair	Corporate	South	Female	37	Online Transfer	15	3450	51750	44778.1
+ORD10250	2022-04-09	Furniture	Sofa	Retail	East	Male	47	Card	9	298	2682	1976.57
+ORD10251	2024-05-01	Electronics	Laptop	Corporate	West	Female	32	Online Transfer	2	2495	4990	4102.08
+ORD10252	2025-01-20	Office Supplies	Printer Paper	Retail	North	Female	57	UPI	7	4095	28665	16953
+ORD10253	2022-11-13	Electronics	Laptop	Retail	East	Male	50	Online Transfer	9	2181	19629	16651.22
+ORD10254	2022-07-05	Home Appliances	Refrigerator	Online	South	Female	65	Cash	7	508	3556	2030.57
+ORD10255	2022-08-29	Electronics	Monitor	Online	West	Female	39	Cash	14	2002	28028	22652.04
+ORD10256	2022-01-21	Furniture	Chair	Retail	East	Female	27	Card	7	994	6958	5892.36
+ORD10257	2025-05-15	Electronics	Tablet	Corporate	North	Male	27	Cash	8	1550	12400	10426
+ORD10258	2024-02-10	Home Appliances	Refrigerator	Retail	South	Male	54	Online Transfer	9	2174	19566	16610.76
+ORD10259	2024-02-16	Home Appliances	Refrigerator	Corporate	North	Male	36	Online Transfer	5	3765	18825	13742.8
+ORD10260	2023-12-20	Home Appliances	Blender	Online	South	Male	22	UPI	14	4092	57288	43830.77
+ORD10261	2024-01-09	Furniture	Desk	Retail	North	Female	18	Card	8	662	5296	3898.19
+ORD10262	2022-04-03	Home Appliances	Refrigerator	Online	West	Female	48	Card	7	4729	33103	27438.51
+ORD10263	2025-08-17	Electronics	Laptop	Retail	West	Male	21	Online Transfer	10	290	2900	2152.45
+ORD10264	2024-11-22	Home Appliances	Blender	Corporate	South	Female	34	Cash	2	3932	7864	6172.12
+ORD10265	2022-06-23	Office Supplies	Pen Set	Corporate	North	Male	48	Cash	2	2794	5588	4178
+ORD10266	2023-04-15	Office Supplies	Printer Paper	Retail	East	Female	49	Online Transfer	4	3084	12336	7331.13
+ORD10267	2022-10-26	Home Appliances	Refrigerator	Corporate	East	Male	54	Online Transfer	3	4200	12600	8641.24
+ORD10268	2023-11-13	Electronics	Laptop	Retail	North	Male	37	Cash	4	1629	6516	3920.68
+ORD10269	2024-12-08	Home Appliances	Blender	Retail	East	Male	63	Online Transfer	8	3476	27808	21454.02
+ORD10270	2025-04-14	Home Appliances	Microwave	Corporate	East	Male	61	Card	6	4614	27684	19784.69
+ORD10271	2025-06-01	Home Appliances	Refrigerator	Online	North	Male	51	Cash	8	460	3680	2499.52
+ORD10272	2025-06-16	Furniture	Cabinet	Online	South	Female	46	UPI	15	2267	34005	26559.12
+ORD10273	2023-07-27	Electronics	Tablet	Online	East	Male	52	Card	5	3798	18990	15092.36
+ORD10274	2025-07-08	Office Supplies	Printer Paper	Online	South	Male	60	Cash	7	3141	21987	19205.09
+ORD10275	2024-03-26	Home Appliances	Refrigerator	Online	East	Male	52	UPI	9	1207	10863	8842.5
+ORD10276	2022-10-25	Electronics	Laptop	Online	West	Male	53	Cash	15	4706	70590	57606.34
+ORD10277	2022-10-04	Electronics	Laptop	Corporate	North	Female	51	Cash	5	1320	6600	4207.43
+ORD10278	2023-02-04	Furniture	Sofa	Retail	North	Male	19	Online Transfer	14	3956	55384	36170.01
+ORD10279	2025-03-10	Office Supplies	Printer Paper	Corporate	South	Female	39	Online Transfer	7	4920	34440	23392.56
+ORD10280	2024-05-30	Home Appliances	Blender	Retail	East	Female	42	Online Transfer	1	2021	2021	1239.68
+ORD10281	2022-06-02	Electronics	Smartphone	Corporate	South	Female	32	Online Transfer	12	4022	48264	34051.19
+ORD10282	2025-05-22	Furniture	Desk	Online	South	Male	30	Online Transfer	3	691	2073	1647.19
+ORD10283	2023-06-06	Furniture	Desk	Retail	North	Female	42	Online Transfer	10	4332	43320	29623.84
+ORD10284	2023-10-13	Home Appliances	Refrigerator	Corporate	West	Female	55	Cash	14	4085	57190	42298.18
+ORD10285	2024-03-09	Office Supplies	Stapler	Online	West	Male	60	Card	3	2147	6441	4493.88
+ORD10286	2024-01-30	Home Appliances	Refrigerator	Retail	West	Female	47	Cash	4	2352	9408	6840.73
+ORD10287	2023-04-19	Furniture	Chair	Online	South	Male	29	UPI	13	3827	49751	32662.77
+ORD10288	2025-09-20	Home Appliances	Refrigerator	Corporate	North	Male	59	UPI	8	832	6656	4153.36
+ORD10289	2024-09-28	Home Appliances	Vacuum Cleaner	Retail	West	Male	61	Card	8	2497	19976	17393.62
+ORD10290	2025-09-22	Furniture	Chair	Corporate	South	Female	44	Card	6	808	4848	3461.6
+ORD10291	2024-12-24	Furniture	Cabinet	Corporate	South	Male	24	Cash	9	4361	39249	24407.3
+ORD10292	2025-03-31	Office Supplies	Pen Set	Retail	North	Male	50	Online Transfer	8	733	5864	3254.64
+ORD10293	2024-12-26	Office Supplies	Pen Set	Retail	West	Female	58	Cash	15	4575	68625	43170.06
+ORD10294	2023-11-18	Furniture	Desk	Online	West	Female	26	Online Transfer	13	3477	45201	39704.77
+ORD10295	2022-10-19	Electronics	Laptop	Corporate	South	Female	36	Online Transfer	2	2930	5860	3766.08
+ORD10296	2022-07-12	Electronics	Laptop	Online	West	Male	36	UPI	8	747	5976	4613.26
+ORD10297	2023-06-12	Furniture	Cabinet	Retail	East	Male	42	Cash	1	2760	2760	1975.12
+ORD10298	2024-05-28	Office Supplies	Pen Set	Retail	East	Female	51	Cash	10	3138	31380	23039.14
+ORD10299	2022-02-18	Office Supplies	Stapler	Retail	East	Female	42	Cash	4	3870	15480	13523.61
+ORD10300	2024-08-26	Office Supplies	Pen Set	Retail	West	Male	24	Card	4	4263	17052	11546.23
+ORD10301	2024-09-11	Electronics	Laptop	Corporate	East	Female	61	Card	4	3447	13788	11063.76
+ORD10302	2025-03-20	Furniture	Desk	Retail	East	Female	26	Cash	15	93	1395	786.97
+ORD10303	2025-09-20	Office Supplies	Notebook	Retail	West	Male	51	Card	2	1547	3094	2641.88
+ORD10304	2024-01-07	Furniture	Sofa	Retail	East	Male	21	Cash	11	74	814	528.35
+ORD10305	2023-02-03	Home Appliances	Refrigerator	Online	West	Female	56	Cash	9	1400	12600	7962.54
+ORD10306	2022-09-06	Home Appliances	Blender	Retail	North	Male	42	Cash	9	3823	34407	29763.35
+ORD10307	2025-05-14	Home Appliances	Microwave	Retail	North	Female	64	Online Transfer	1	2454	2454	2077
+ORD10308	2023-10-28	Office Supplies	Stapler	Corporate	South	Male	60	Cash	12	2919	35028	22420.36
+ORD10309	2025-07-17	Home Appliances	Blender	Retail	West	Female	20	Cash	15	807	12105	10222.01
+ORD10310	2025-06-03	Home Appliances	Blender	Retail	East	Female	38	UPI	8	446	3568	2320.24
+ORD10311	2022-08-13	Furniture	Chair	Corporate	West	Female	40	Cash	14	581	8134	6242.74
+ORD10312	2024-11-28	Electronics	Laptop	Corporate	West	Female	59	UPI	6	1875	11250	9832.8
+ORD10313	2024-03-10	Home Appliances	Blender	Retail	East	Female	33	UPI	13	720	9360	6407.17
+ORD10314	2025-02-18	Office Supplies	Printer Paper	Online	North	Female	42	Cash	2	2000	4000	2286.11
+ORD10315	2023-07-04	Home Appliances	Vacuum Cleaner	Online	South	Female	65	UPI	6	2530	15180	9435.29
+ORD10316	2024-09-29	Electronics	Smartphone	Online	North	Male	44	Online Transfer	14	3114	43596	34395.86
+ORD10317	2023-03-29	Electronics	Laptop	Corporate	West	Female	29	UPI	2	2034	4068	3205.04
+ORD10318	2025-02-16	Electronics	Smartphone	Online	North	Male	31	UPI	13	2647	34411	24946.25
+ORD10319	2023-11-17	Office Supplies	Notebook	Online	West	Female	37	Card	15	2659	39885	29463.28
+ORD10320	2024-06-08	Office Supplies	Pen Set	Corporate	North	Male	63	Cash	3	1151	3453	3006.05
+ORD10321	2022-05-12	Home Appliances	Refrigerator	Corporate	South	Male	53	UPI	7	4175	29225	20294.52
+ORD10322	2023-11-08	Office Supplies	Stapler	Retail	East	Female	54	Card	7	199	1393	873.1
+ORD10323	2024-05-23	Office Supplies	Stapler	Retail	West	Male	41	Cash	11	863	9493	6194.46
+ORD10324	2025-04-17	Office Supplies	Notebook	Online	East	Male	36	Card	12	92	1104	632.65
+ORD10325	2024-01-16	Electronics	Smartphone	Online	West	Male	47	Online Transfer	7	3966	27762	22852.56
+ORD10326	2025-08-26	Electronics	Laptop	Online	East	Male	22	Card	13	2356	30628	18934.69
+ORD10327	2022-01-04	Office Supplies	Notebook	Retail	North	Male	24	Cash	12	4862	58344	49828.91
+ORD10328	2023-11-14	Office Supplies	Notebook	Corporate	East	Male	34	UPI	8	3111	24888	19749.13
+ORD10329	2022-07-24	Office Supplies	Stapler	Retail	South	Female	40	Card	13	1431	18603	11284.11
+ORD10330	2025-08-31	Furniture	Chair	Retail	North	Male	20	Card	11	3717	40887	30046.18
+ORD10331	2024-07-01	Office Supplies	Pen Set	Online	North	Male	51	UPI	3	4126	12378	8332.59
+ORD10332	2024-12-05	Electronics	Smartphone	Corporate	North	Female	35	Card	5	3030	15150	10681.52
+ORD10333	2022-06-01	Office Supplies	Notebook	Retail	West	Male	25	UPI	7	2859	20013	15372.32
+ORD10334	2022-07-15	Electronics	Laptop	Retail	South	Female	63	UPI	11	329	3619	2193.26
+ORD10335	2023-03-24	Electronics	Smartphone	Corporate	West	Male	55	Card	3	2191	6573	5283.53
+ORD10336	2024-02-26	Home Appliances	Microwave	Retail	East	Male	30	Cash	1	982	982	717.45
+ORD10337	2024-09-15	Electronics	Tablet	Retail	East	Male	52	UPI	2	1496	2992	2442.86
+ORD10338	2025-03-27	Office Supplies	Printer Paper	Corporate	West	Male	57	Card	14	672	9408	6147.31
+ORD10339	2022-12-12	Electronics	Monitor	Online	West	Female	34	Cash	11	4616	50776	37081.01
+ORD10340	2022-05-19	Office Supplies	Notebook	Online	East	Female	25	UPI	8	3945	31560	26326.26
+ORD10341	2022-01-02	Furniture	Sofa	Online	North	Female	57	Online Transfer	1	2572	2572	2180.9
+ORD10342	2024-05-09	Home Appliances	Refrigerator	Online	West	Male	32	Cash	15	2679	40185	25419.68
+ORD10343	2023-03-04	Office Supplies	Stapler	Corporate	North	Female	24	Online Transfer	5	2916	14580	11697.48
+ORD10344	2022-11-09	Office Supplies	Notebook	Retail	North	Male	40	Online Transfer	8	2781	22248	18696.32
+ORD10345	2025-06-15	Electronics	Tablet	Corporate	South	Female	24	Cash	13	754	9802	7818.32
+ORD10346	2024-08-28	Furniture	Chair	Corporate	North	Male	64	Card	6	3503	21018	16440.81
+ORD10347	2022-09-03	Furniture	Chair	Corporate	South	Male	55	Card	1	4660	4660	3386.09
+ORD10348	2022-05-15	Electronics	Smartphone	Corporate	East	Male	43	Card	8	2248	17984	13033.21
+ORD10349	2025-09-01	Furniture	Cabinet	Online	South	Female	35	Card	9	3389	30501	25192.24
+ORD10350	2024-03-10	Furniture	Desk	Retail	North	Male	62	Cash	6	699	4194	3428.4
+ORD10351	2022-06-09	Office Supplies	Pen Set	Corporate	West	Female	38	UPI	8	61	488	423.46
+ORD10352	2022-05-18	Furniture	Chair	Online	West	Male	33	Online Transfer	5	3805	19025	14731.49
+ORD10353	2024-04-08	Electronics	Laptop	Retail	West	Male	44	UPI	6	364	2184	1612.04
+ORD10354	2022-09-28	Electronics	Laptop	Retail	North	Female	53	Card	14	528	7392	4729.18
+ORD10355	2025-04-17	Furniture	Cabinet	Corporate	South	Male	30	Card	7	2862	20034	16032.66
+ORD10356	2025-05-28	Furniture	Chair	Online	South	Male	30	Online Transfer	7	2938	20566	15193.95
+ORD10357	2022-03-29	Office Supplies	Stapler	Retail	East	Female	62	Online Transfer	3	1583	4749	3077.88
+ORD10358	2025-06-03	Office Supplies	Pen Set	Retail	East	Female	63	Online Transfer	9	1569	14121	10753.36
+ORD10359	2023-09-13	Furniture	Sofa	Retail	West	Male	43	Online Transfer	1	2889	2889	2403.16
+ORD10360	2022-02-03	Furniture	Cabinet	Corporate	South	Female	21	Online Transfer	10	3536	35360	19506.2
+ORD10361	2024-12-18	Electronics	Laptop	Retail	East	Female	25	UPI	11	4642	51062	43516.22
+ORD10362	2023-05-07	Office Supplies	Printer Paper	Retail	South	Female	19	Cash	11	2469	27159	15217.05
+ORD10363	2024-07-03	Furniture	Chair	Online	South	Male	54	Online Transfer	13	2330	30290	16963.02
+ORD10364	2022-02-17	Electronics	Monitor	Retail	West	Female	37	Cash	11	898	9878	8360.67
+ORD10365	2025-05-29	Electronics	Smartphone	Retail	West	Male	28	Cash	2	329	658	518.48
+ORD10366	2025-04-23	Furniture	Desk	Online	East	Female	29	Online Transfer	9	4968	44712	34026.86
+ORD10367	2025-02-05	Electronics	Tablet	Online	South	Male	49	Online Transfer	4	3196	12784	10321.97
+ORD10368	2023-10-04	Furniture	Cabinet	Online	West	Male	22	Online Transfer	8	2237	17896	11766.97
+ORD10369	2023-09-07	Electronics	Laptop	Corporate	South	Female	35	Card	12	4110	49320	33009.9
+ORD10370	2025-09-10	Home Appliances	Vacuum Cleaner	Retail	South	Female	36	Online Transfer	1	1999	1999	1215.75
+ORD10371	2025-02-13	Furniture	Chair	Corporate	East	Male	22	Cash	15	988	14820	12761.33
+ORD10372	2022-06-10	Furniture	Desk	Online	North	Female	55	Card	10	386	3860	2536.31
+ORD10373	2025-04-22	Office Supplies	Stapler	Corporate	East	Male	45	Card	2	4406	8812	6939.11
+ORD10374	2022-09-20	Electronics	Monitor	Corporate	South	Male	34	Card	11	2268	24948	19725.78
+ORD10375	2023-02-02	Furniture	Desk	Corporate	East	Male	43	Cash	9	4923	44307	37027.89
+ORD10376	2023-05-05	Home Appliances	Vacuum Cleaner	Retail	North	Female	19	Online Transfer	14	427	5978	3843.85
+ORD10377	2022-04-26	Electronics	Tablet	Online	South	Male	50	Online Transfer	13	4680	60840	48846.56
+ORD10378	2022-09-27	Office Supplies	Pen Set	Online	South	Female	56	Card	6	4290	25740	17516.82
+ORD10379	2023-08-29	Electronics	Smartphone	Corporate	North	Male	37	Online Transfer	4	767	3068	1981.28
+ORD10380	2025-05-20	Home Appliances	Vacuum Cleaner	Retail	East	Male	50	UPI	13	2070	26910	17720.98
+ORD10381	2022-12-10	Electronics	Monitor	Retail	East	Female	28	Card	14	2452	34328	26130.8
+ORD10382	2024-09-27	Home Appliances	Vacuum Cleaner	Retail	North	Female	54	Card	4	3592	14368	9368.82
+ORD10383	2025-06-17	Electronics	Laptop	Online	North	Male	32	Card	14	2601	36414	25160.43
+ORD10384	2025-08-15	Office Supplies	Pen Set	Online	West	Male	44	Online Transfer	9	4522	40698	25806.02
+ORD10385	2023-10-02	Electronics	Laptop	Online	North	Female	20	Cash	10	2718	27180	16056.29
+ORD10386	2024-03-18	Electronics	Monitor	Corporate	West	Female	49	UPI	15	423	6345	4000.24
+ORD10387	2023-05-04	Home Appliances	Refrigerator	Online	South	Male	21	Card	2	245	490	289.62
+ORD10388	2022-12-26	Home Appliances	Vacuum Cleaner	Online	South	Female	44	UPI	12	1495	17940	12301.04
+ORD10389	2022-07-08	Home Appliances	Microwave	Retail	East	Female	65	Card	2	2167	4334	3564.12
+ORD10390	2024-02-06	Electronics	Laptop	Online	South	Male	24	UPI	1	2128	2128	1185.11
+ORD10391	2024-08-01	Home Appliances	Refrigerator	Corporate	East	Female	65	UPI	3	4255	12765	10199.38
+ORD10392	2025-10-29	Office Supplies	Notebook	Corporate	West	Female	62	UPI	11	426	4686	2973.34
+ORD10393	2023-10-11	Electronics	Smartphone	Retail	East	Male	20	UPI	6	4439	26634	18896.28
+ORD10394	2022-04-29	Home Appliances	Refrigerator	Online	South	Male	35	Card	2	2925	5850	3519.69
+ORD10395	2023-06-13	Home Appliances	Blender	Retail	East	Male	36	Cash	10	27	270	172.03
+ORD10396	2024-01-08	Home Appliances	Refrigerator	Online	South	Male	38	Cash	6	4444	26664	14875.86
+ORD10397	2024-11-15	Electronics	Laptop	Corporate	West	Male	39	Online Transfer	7	3314	23198	19952.62
+ORD10398	2022-12-22	Furniture	Cabinet	Retail	West	Male	18	Card	2	776	1552	1185.59
+ORD10399	2022-06-13	Home Appliances	Microwave	Online	West	Female	34	UPI	10	2513	25130	17281
+ORD10400	2024-04-22	Electronics	Tablet	Online	East	Female	65	UPI	7	2957	20699	13811.94
+ORD10401	2024-10-26	Furniture	Desk	Retail	West	Female	54	Card	1	1964	1964	1102.35
+ORD10402	2022-02-18	Office Supplies	Stapler	Retail	North	Male	53	Cash	9	3317	29853	25681.21
+ORD10403	2025-06-21	Home Appliances	Microwave	Online	South	Male	20	Card	10	4259	42590	27893.38
+ORD10404	2025-10-10	Electronics	Laptop	Corporate	West	Female	40	Card	4	4143	16572	11262.52
+ORD10405	2024-04-21	Electronics	Smartphone	Online	East	Male	56	Cash	7	58	406	261.03
+ORD10406	2024-07-10	Home Appliances	Refrigerator	Corporate	North	Male	48	Online Transfer	9	4516	40644	25712.97
+ORD10407	2025-06-12	Furniture	Sofa	Retail	East	Male	42	Cash	9	175	1575	1027.35
+ORD10408	2024-01-26	Furniture	Cabinet	Online	East	Female	19	UPI	13	2091	27183	20939.54
+ORD10409	2022-11-18	Electronics	Laptop	Retail	East	Male	64	Cash	7	2660	18620	11510.65
+ORD10410	2024-12-29	Home Appliances	Microwave	Corporate	West	Female	29	Online Transfer	11	2556	28116	17312.99
+ORD10411	2023-08-12	Furniture	Desk	Retail	South	Male	46	UPI	2	361	722	532.11
+ORD10412	2024-10-24	Electronics	Smartphone	Online	North	Female	32	Cash	13	4022	52286	34185.98
+ORD10413	2022-09-19	Office Supplies	Notebook	Retail	South	Female	45	Online Transfer	4	1635	6540	3878.06
+ORD10414	2024-06-21	Electronics	Laptop	Corporate	West	Male	40	Cash	10	3641	36410	28331.22
+ORD10415	2024-06-30	Office Supplies	Printer Paper	Corporate	North	Female	52	Online Transfer	12	2443	29316	20986.89
+ORD10416	2022-08-06	Electronics	Tablet	Corporate	East	Female	24	UPI	6	4888	29328	20808.06
+ORD10417	2025-10-19	Electronics	Smartphone	Retail	West	Female	35	Card	1	4981	4981	4003.78
+ORD10418	2025-01-09	Electronics	Laptop	Corporate	East	Female	57	Cash	1	2207	2207	1757.12
+ORD10419	2023-10-08	Electronics	Laptop	Corporate	East	Male	64	Card	3	1540	4620	3282.37
+ORD10420	2025-04-28	Office Supplies	Printer Paper	Retail	East	Female	23	Cash	6	4850	29100	23601.46
+ORD10421	2023-06-08	Furniture	Chair	Retail	West	Female	62	Online Transfer	8	970	7760	4843.06
+ORD10422	2024-02-23	Electronics	Laptop	Online	North	Male	42	Card	6	325	1950	1074.44
+ORD10423	2024-11-28	Furniture	Desk	Retail	West	Male	55	Card	1	3786	3786	2360.88
+ORD10424	2024-09-21	Office Supplies	Notebook	Retail	East	Male	58	UPI	14	4067	56938	43745.57
+ORD10425	2025-10-17	Home Appliances	Microwave	Online	North	Male	19	Online Transfer	1	1810	1810	1170.88
+ORD10426	2025-07-07	Office Supplies	Notebook	Retail	South	Female	46	Cash	6	563	3378	2763.89
+ORD10427	2023-10-16	Furniture	Desk	Online	North	Male	50	Online Transfer	9	3838	34542	22972.38
+ORD10428	2022-01-27	Office Supplies	Pen Set	Retail	East	Female	40	Online Transfer	8	2554	20432	15502.09
+ORD10429	2023-10-28	Electronics	Smartphone	Corporate	East	Male	43	Cash	12	4157	49884	33469.56
+ORD10430	2024-01-06	Furniture	Desk	Online	East	Male	36	Card	11	2899	31889	24151.92
+ORD10431	2022-09-13	Furniture	Sofa	Corporate	North	Female	28	Cash	7	4586	32102	21983.76
+ORD10432	2022-03-08	Electronics	Laptop	Retail	East	Male	26	Online Transfer	9	1976	17784	12963.79
+ORD10433	2024-02-06	Office Supplies	Stapler	Corporate	South	Male	46	UPI	9	4901	44109	38604.65
+ORD10434	2023-09-05	Home Appliances	Refrigerator	Online	West	Male	22	Online Transfer	14	691	9674	7646.93
+ORD10435	2022-09-06	Furniture	Desk	Online	West	Female	48	Card	7	3177	22239	18236.11
+ORD10436	2024-04-14	Furniture	Desk	Corporate	South	Female	33	UPI	7	1925	13475	9228.15
+ORD10437	2022-06-20	Electronics	Tablet	Online	North	Male	24	Card	9	1007	9063	6001.15
+ORD10438	2025-03-22	Home Appliances	Refrigerator	Corporate	South	Female	46	Card	4	2073	8292	6084.78
+ORD10439	2025-03-29	Office Supplies	Pen Set	Retail	West	Male	34	UPI	5	1660	8300	5577.57
+ORD10440	2023-04-13	Home Appliances	Blender	Retail	South	Male	61	UPI	12	4119	49428	37835.29
+ORD10441	2024-11-01	Furniture	Desk	Corporate	East	Female	56	UPI	13	868	11284	6892.84
+ORD10442	2024-05-16	Home Appliances	Blender	Retail	North	Male	22	Card	13	3844	49972	43757.41
+ORD10443	2023-07-13	Electronics	Smartphone	Retail	West	Female	39	Cash	14	1117	15638	11511.39
+ORD10444	2024-06-25	Electronics	Monitor	Corporate	South	Male	33	UPI	5	2560	12800	8491.06
+ORD10445	2022-10-25	Electronics	Laptop	Retail	East	Male	41	Card	11	57	627	381.88
+ORD10446	2025-10-25	Electronics	Smartphone	Retail	West	Male	25	UPI	2	4006	8012	6930.22
+ORD10447	2023-08-27	Office Supplies	Pen Set	Corporate	West	Female	42	Cash	15	2554	38310	29626.27
+ORD10448	2025-05-23	Office Supplies	Notebook	Online	East	Female	39	Online Transfer	1	893	893	606.85
+ORD10449	2023-12-03	Office Supplies	Pen Set	Online	East	Male	35	Card	7	3705	25935	22079.39
+ORD10450	2022-08-27	Electronics	Laptop	Online	North	Female	27	Online Transfer	10	2154	21540	16518.78
+ORD10451	2023-07-02	Furniture	Chair	Corporate	North	Male	29	UPI	5	1881	9405	6991.09
+ORD10452	2025-10-27	Furniture	Sofa	Online	North	Female	33	Card	4	2211	8844	7481.97
+ORD10453	2023-05-29	Home Appliances	Vacuum Cleaner	Retail	East	Male	49	Card	13	4699	61087	51469.16
+ORD10454	2023-07-26	Home Appliances	Blender	Online	South	Female	19	Card	10	1226	12260	8983.04
+ORD10455	2025-07-25	Home Appliances	Microwave	Online	North	Female	19	UPI	9	1118	10062	7775.11
+ORD10456	2022-01-17	Furniture	Cabinet	Corporate	East	Female	37	Cash	2	437	874	707.28
+ORD10457	2022-12-16	Electronics	Monitor	Corporate	East	Female	47	Card	12	3251	39012	26831.52
+ORD10458	2022-10-30	Furniture	Chair	Corporate	West	Male	28	UPI	14	612	8568	5084.37
+ORD10459	2022-02-18	Home Appliances	Blender	Retail	East	Female	31	Cash	7	98	686	482.41
+ORD10460	2023-07-27	Home Appliances	Blender	Corporate	West	Male	33	Card	12	1352	16224	14160.11
+ORD10461	2022-05-30	Office Supplies	Pen Set	Retail	West	Female	43	UPI	8	4752	38016	28245.77
+ORD10462	2022-06-08	Home Appliances	Refrigerator	Retail	South	Male	32	UPI	15	4896	73440	48585.15
+ORD10463	2023-12-22	Office Supplies	Printer Paper	Corporate	North	Female	52	Cash	3	3105	9315	6725.94
+ORD10464	2024-09-02	Office Supplies	Stapler	Online	West	Male	63	Cash	4	1734	6936	5462.88
+ORD10465	2025-01-16	Furniture	Desk	Online	West	Female	44	Card	1	3817	3817	3227.33
+ORD10466	2025-03-18	Office Supplies	Pen Set	Online	East	Female	60	Cash	9	1881	16929	13466.04
+ORD10467	2022-01-05	Office Supplies	Printer Paper	Corporate	East	Male	28	Card	15	3284	49260	37568.68
+ORD10468	2025-03-11	Office Supplies	Stapler	Corporate	North	Male	46	Cash	12	2594	31128	23428.25
+ORD10469	2024-12-16	Office Supplies	Pen Set	Online	South	Male	20	UPI	10	2437	24370	13735.21
+ORD10470	2024-12-26	Home Appliances	Refrigerator	Online	West	Female	26	Card	9	2265	20385	12524.07
+ORD10471	2025-09-30	Electronics	Smartphone	Retail	West	Female	34	Online Transfer	15	3204	48060	41331.36
+ORD10472	2022-10-25	Furniture	Sofa	Online	North	Male	24	Card	15	98	1470	905.18
+ORD10473	2025-07-23	Office Supplies	Printer Paper	Online	North	Male	42	Cash	2	2545	5090	3320.56
+ORD10474	2022-05-10	Home Appliances	Refrigerator	Online	East	Male	39	UPI	15	2043	30645	21119.14
+ORD10475	2022-01-06	Electronics	Smartphone	Corporate	West	Female	50	Cash	4	963	3852	3200.59
+ORD10476	2024-04-14	Home Appliances	Refrigerator	Retail	East	Female	40	Online Transfer	13	220	2860	1933.71
+ORD10477	2025-01-10	Electronics	Tablet	Online	South	Male	32	Online Transfer	10	3034	30340	20792.66
+ORD10478	2022-06-24	Electronics	Tablet	Corporate	East	Male	63	Online Transfer	12	2360	28320	18960.1
+ORD10479	2023-01-07	Home Appliances	Blender	Online	East	Male	61	Card	8	2455	19640	14080.26
+ORD10480	2023-11-03	Electronics	Laptop	Retail	West	Female	63	Card	12	1730	20760	13495.79
+ORD10481	2022-07-02	Electronics	Monitor	Retail	West	Male	23	Card	10	2891	28910	18063.92
+ORD10482	2023-08-05	Home Appliances	Refrigerator	Retail	East	Female	48	Card	9	2263	20367	11531.05
+ORD10483	2025-03-18	Electronics	Laptop	Online	West	Male	21	Card	7	4116	28812	16161.83
+ORD10484	2022-02-24	Electronics	Tablet	Online	North	Male	29	UPI	8	4137	33096	23564.02
+ORD10485	2022-12-30	Furniture	Sofa	Online	North	Female	43	UPI	10	4498	44980	33471.43
+ORD10486	2023-10-26	Home Appliances	Vacuum Cleaner	Online	North	Male	21	UPI	3	672	2016	1535.89
+ORD10487	2022-10-10	Home Appliances	Vacuum Cleaner	Corporate	East	Male	63	Online Transfer	10	2209	22090	16633.96
+ORD10488	2022-06-24	Home Appliances	Vacuum Cleaner	Online	North	Female	30	UPI	5	4848	24240	15853.5
+ORD10489	2025-01-31	Office Supplies	Stapler	Corporate	North	Male	43	UPI	5	2353	11765	9098.05
+ORD10490	2022-09-11	Furniture	Cabinet	Retail	West	Male	30	Cash	2	2688	5376	4164.03
+ORD10491	2025-06-16	Home Appliances	Refrigerator	Online	East	Female	46	Cash	4	1602	6408	5302.35
+ORD10492	2025-07-15	Electronics	Tablet	Retail	West	Female	65	Card	10	1131	11310	7383.52
+ORD10493	2025-06-19	Electronics	Laptop	Online	East	Female	61	Cash	4	678	2712	2145.83
+ORD10494	2025-06-10	Electronics	Tablet	Corporate	South	Female	55	Online Transfer	2	2479	4958	4099.89
+ORD10495	2023-02-06	Furniture	Cabinet	Online	North	Male	49	Online Transfer	9	1367	12303	7534.31
+ORD10496	2025-02-07	Office Supplies	Notebook	Retail	South	Male	43	Online Transfer	9	145	1305	1080.22
+ORD10497	2024-09-08	Electronics	Tablet	Online	West	Male	49	Online Transfer	2	3815	7630	4572.74
+ORD10498	2024-08-13	Home Appliances	Blender	Online	West	Male	34	Online Transfer	7	32	224	195.91
+ORD10499	2022-10-21	Office Supplies	Notebook	Retail	North	Male	31	Cash	7	998	6986	4943.31
+ORD10500	2025-02-18	Furniture	Sofa	Corporate	South	Male	42	Online Transfer	5	4426	22130	12398.3
+ORD10501	2024-09-18	Electronics	Laptop	Online	South	Female	61	Online Transfer	2	3907	7814	4515.03
+ORD10502	2022-11-13	Furniture	Desk	Retail	North	Female	54	UPI	15	975	14625	8632.43
+ORD10503	2024-07-24	Office Supplies	Notebook	Corporate	East	Female	42	Card	7	1193	8351	4857.97
+ORD10504	2024-11-02	Furniture	Desk	Corporate	North	Female	48	Cash	12	238	2856	2104.56
+ORD10505	2025-04-03	Electronics	Monitor	Online	East	Female	34	Card	8	3696	29568	17122.33
+ORD10506	2024-02-20	Furniture	Desk	Online	East	Female	42	Online Transfer	10	985	9850	7297.94
+ORD10507	2023-07-27	Office Supplies	Stapler	Retail	North	Female	36	Online Transfer	3	4417	13251	8838.66
+ORD10508	2025-07-25	Furniture	Desk	Online	East	Male	49	UPI	13	3110	40430	30435.49
+ORD10509	2024-02-08	Home Appliances	Refrigerator	Corporate	West	Male	43	Online Transfer	3	3951	11853	7320.01
+ORD10510	2025-02-20	Office Supplies	Notebook	Corporate	North	Male	33	UPI	1	672	672	451
+ORD10511	2025-03-16	Home Appliances	Vacuum Cleaner	Retail	West	Male	51	Online Transfer	14	1671	23394	14028.97
+ORD10512	2025-03-15	Furniture	Cabinet	Corporate	South	Male	62	UPI	7	3211	22477	17417.97
+ORD10513	2023-06-11	Electronics	Smartphone	Corporate	West	Female	32	Online Transfer	11	1657	18227	13730.66
+ORD10514	2022-02-01	Office Supplies	Printer Paper	Online	East	Female	56	Cash	1	4002	4002	3387.76
+ORD10515	2022-10-28	Home Appliances	Refrigerator	Online	West	Female	21	UPI	8	742	5936	4044.05
+ORD10516	2022-02-02	Office Supplies	Pen Set	Retail	South	Male	34	Cash	5	1010	5050	3692.38
+ORD10517	2024-02-11	Furniture	Sofa	Online	North	Male	31	Card	15	4252	63780	38404.47
+ORD10518	2025-09-29	Office Supplies	Pen Set	Retail	East	Female	59	Card	9	3335	30015	21100.16
+ORD10519	2023-10-07	Home Appliances	Refrigerator	Corporate	East	Female	60	Cash	7	2892	20244	11439.27
+ORD10520	2023-10-29	Office Supplies	Notebook	Online	South	Male	38	Card	10	4121	41210	34205.37
+ORD10521	2024-01-11	Home Appliances	Blender	Corporate	North	Male	57	Online Transfer	10	1870	18700	10822.59
+ORD10522	2023-09-23	Electronics	Monitor	Retail	East	Male	32	Card	7	3250	22750	19660.35
+ORD10523	2024-04-08	Furniture	Desk	Retail	North	Male	62	Card	15	4908	73620	42926.86
+ORD10524	2022-04-29	Electronics	Laptop	Corporate	East	Male	62	Card	12	2859	34308	24519.97
+ORD10525	2022-02-16	Home Appliances	Microwave	Corporate	South	Male	21	Card	3	1535	4605	2630.59
+ORD10526	2025-03-13	Home Appliances	Microwave	Retail	West	Male	24	Cash	2	3210	6420	4199.56
+ORD10527	2024-04-23	Furniture	Sofa	Online	East	Male	52	UPI	1	556	556	379.81
+ORD10528	2023-04-14	Home Appliances	Refrigerator	Retail	West	Female	49	Card	12	2494	29928	25395.12
+ORD10529	2023-11-13	Electronics	Laptop	Corporate	North	Male	26	Cash	14	395	5530	3475.73
+ORD10530	2023-07-01	Electronics	Tablet	Retail	South	Female	30	UPI	9	2207	19863	14553.15
+ORD10531	2023-07-24	Furniture	Desk	Retail	North	Male	59	Online Transfer	2	3570	7140	5973.19
+ORD10532	2024-09-06	Electronics	Laptop	Corporate	East	Female	42	Card	5	4605	23025	14728.69
+ORD10533	2024-11-28	Electronics	Smartphone	Retail	South	Male	33	Cash	10	2511	25110	15226.02
+ORD10534	2023-11-08	Home Appliances	Refrigerator	Retail	East	Male	21	UPI	3	2071	6213	4479.1
+ORD10535	2023-06-20	Furniture	Sofa	Corporate	West	Male	18	UPI	9	3626	32634	22542.72
+ORD10536	2022-02-18	Office Supplies	Printer Paper	Retail	North	Female	32	Card	11	2786	30646	23326.33
+ORD10537	2023-07-14	Furniture	Chair	Retail	West	Female	65	UPI	5	4430	22150	12840.84
+ORD10538	2023-09-07	Furniture	Desk	Corporate	North	Female	57	Online Transfer	15	3654	54810	46653.94
+ORD10539	2023-04-29	Home Appliances	Microwave	Online	North	Male	24	Cash	9	2452	22068	12917.36
+ORD10540	2024-03-24	Furniture	Cabinet	Retail	North	Female	25	Cash	15	3152	47280	26104.65
+ORD10541	2023-12-06	Furniture	Chair	Retail	East	Female	19	Online Transfer	6	3565	21390	18471.12
+ORD10542	2022-09-03	Office Supplies	Printer Paper	Corporate	North	Female	33	UPI	14	2146	30044	25860.52
+ORD10543	2025-08-24	Home Appliances	Microwave	Corporate	East	Female	52	Online Transfer	7	3999	27993	19629.61
+ORD10544	2022-03-12	Home Appliances	Vacuum Cleaner	Online	East	Male	45	Cash	3	4357	13071	11227.2
+ORD10545	2025-06-21	Home Appliances	Microwave	Corporate	North	Male	53	Cash	7	3061	21427	14460.53
+ORD10546	2022-10-16	Home Appliances	Refrigerator	Online	East	Female	51	UPI	13	1684	21892	17810.35
+ORD10547	2025-04-09	Furniture	Sofa	Corporate	East	Male	21	Card	14	4755	66570	41602.01
+ORD10548	2022-07-15	Electronics	Laptop	Retail	East	Female	36	UPI	9	1826	16434	11996.68
+ORD10549	2024-09-16	Electronics	Laptop	Corporate	East	Male	20	Online Transfer	5	4156	20780	16362.6
+ORD10550	2023-03-03	Office Supplies	Stapler	Online	North	Female	40	Online Transfer	3	1713	5139	3875.45
+ORD10551	2024-04-23	Electronics	Smartphone	Retail	East	Male	41	Cash	3	1530	4590	3206.02
+ORD10552	2024-07-19	Electronics	Smartphone	Corporate	South	Male	26	Cash	10	1412	14120	11790.46
+ORD10553	2023-05-11	Electronics	Laptop	Retail	West	Male	57	Card	1	2862	2862	1945.62
+ORD10554	2025-06-02	Electronics	Monitor	Online	West	Male	19	Cash	13	4673	60749	36808.07
+ORD10555	2024-02-11	Home Appliances	Vacuum Cleaner	Corporate	East	Male	49	UPI	8	127	1016	697.11
+ORD10556	2024-01-03	Electronics	Tablet	Corporate	South	Female	54	UPI	13	2909	37817	21670.31
+ORD10557	2023-10-08	Office Supplies	Pen Set	Online	West	Male	64	UPI	1	338	338	206.73
+ORD10558	2022-07-01	Home Appliances	Vacuum Cleaner	Corporate	East	Female	63	Card	5	1589	7945	5806.21
+ORD10559	2022-07-14	Electronics	Tablet	Corporate	East	Male	29	Card	4	4096	16384	14218.39
+ORD10560	2023-09-17	Electronics	Smartphone	Corporate	North	Female	25	UPI	4	4146	16584	10781.1
+ORD10561	2024-12-21	Furniture	Cabinet	Corporate	South	Female	60	Cash	8	1995	15960	10848.51
+ORD10562	2024-12-30	Furniture	Cabinet	Corporate	West	Female	62	Card	8	4026	32208	26514.79
+ORD10563	2022-03-21	Electronics	Laptop	Online	West	Female	45	Online Transfer	2	1905	3810	2863.6
+ORD10564	2024-01-03	Furniture	Sofa	Corporate	East	Female	28	Cash	1	856	856	747.91
+ORD10565	2023-10-02	Office Supplies	Pen Set	Online	South	Female	50	UPI	15	277	4155	3304.34
+ORD10566	2023-04-18	Home Appliances	Refrigerator	Corporate	West	Female	47	Cash	8	1713	13704	8189.87
+ORD10567	2025-05-13	Office Supplies	Notebook	Corporate	North	Female	24	Cash	10	3977	39770	25485.31
+ORD10568	2024-07-03	Furniture	Desk	Retail	West	Male	40	Online Transfer	15	1577	23655	14300.28
+ORD10569	2024-07-04	Electronics	Smartphone	Corporate	East	Male	29	UPI	12	1226	14712	8746.59
+ORD10570	2024-01-14	Office Supplies	Pen Set	Corporate	North	Male	48	UPI	13	3543	46059	38219.77
+ORD10571	2023-05-08	Home Appliances	Microwave	Online	East	Male	19	Online Transfer	4	3843	15372	11356.99
+ORD10572	2023-01-21	Electronics	Laptop	Corporate	South	Male	61	Cash	15	459	6885	5517.3
+ORD10573	2024-03-25	Electronics	Tablet	Online	West	Male	22	UPI	13	4754	61802	48711.56
+ORD10574	2024-05-16	Electronics	Monitor	Retail	South	Male	20	Cash	4	522	2088	1246.32
+ORD10575	2025-05-04	Electronics	Monitor	Online	North	Female	25	Card	15	2437	36555	22331.98
+ORD10576	2025-03-15	Electronics	Smartphone	Corporate	North	Female	53	Cash	8	2128	17024	13066.56
+ORD10577	2024-12-30	Home Appliances	Refrigerator	Online	South	Female	44	Cash	5	4872	24360	19250.73
+ORD10578	2025-03-29	Office Supplies	Stapler	Retail	North	Male	53	Online Transfer	15	3782	56730	44713.76
+ORD10579	2024-10-20	Furniture	Chair	Corporate	West	Female	33	Online Transfer	4	209	836	597.91
+ORD10580	2024-06-10	Office Supplies	Printer Paper	Online	South	Female	51	Cash	13	4369	56797	48697.3
+ORD10581	2024-06-24	Home Appliances	Vacuum Cleaner	Corporate	North	Male	26	Cash	6	245	1470	846.68
+ORD10582	2025-05-06	Electronics	Tablet	Retail	East	Female	50	UPI	6	195	1170	808.4
+ORD10583	2024-02-14	Furniture	Chair	Corporate	West	Female	51	UPI	4	4595	18380	15893.78
+ORD10584	2025-10-26	Furniture	Desk	Corporate	South	Female	61	Card	7	49	343	269.24
+ORD10585	2025-09-24	Electronics	Monitor	Retail	South	Male	48	Cash	7	2761	19327	13460.97
+ORD10586	2022-10-11	Home Appliances	Blender	Online	North	Female	55	Card	14	809	11326	7329.76
+ORD10587	2025-06-28	Home Appliances	Vacuum Cleaner	Retail	West	Male	37	Online Transfer	7	1099	7693	4378.59
+ORD10588	2022-01-20	Furniture	Sofa	Corporate	East	Female	60	UPI	12	800	9600	6592.05
+ORD10589	2024-05-16	Furniture	Chair	Corporate	West	Male	33	Card	12	3585	43020	29084.67
+ORD10590	2023-11-19	Home Appliances	Microwave	Retail	South	Female	27	UPI	7	2216	15512	10707.69
+ORD10591	2024-11-09	Furniture	Chair	Retail	South	Male	62	Cash	9	1182	10638	6670.42
+ORD10592	2025-01-15	Office Supplies	Pen Set	Online	East	Male	57	Online Transfer	11	2250	24750	17090.86
+ORD10593	2024-12-23	Office Supplies	Notebook	Online	South	Male	21	Online Transfer	14	3963	55482	32802.83
+ORD10594	2023-02-21	Furniture	Desk	Corporate	South	Male	25	Card	4	2450	9800	8039.99
+ORD10595	2025-10-24	Home Appliances	Refrigerator	Corporate	East	Female	64	UPI	9	4075	36675	26231.24
+ORD10596	2025-09-28	Electronics	Tablet	Retail	North	Male	58	Cash	9	1355	12195	8230.62
+ORD10597	2025-07-25	Electronics	Laptop	Online	East	Female	28	Online Transfer	15	736	11040	6347.45
+ORD10598	2023-03-05	Furniture	Cabinet	Online	North	Female	60	Online Transfer	6	750	4500	3238.38
+ORD10599	2024-01-05	Office Supplies	Pen Set	Retail	West	Male	49	Online Transfer	4	1272	5088	2993.55
+ORD10600	2023-10-03	Electronics	Tablet	Corporate	East	Female	43	Cash	12	4676	56112	47985
+ORD10601	2022-03-19	Home Appliances	Microwave	Online	South	Male	20	UPI	10	1570	15700	12922.12
+ORD10602	2023-02-13	Home Appliances	Refrigerator	Retail	South	Male	38	Cash	1	4407	4407	3758.6
+ORD10603	2022-02-16	Home Appliances	Microwave	Corporate	West	Female	45	Online Transfer	9	422	3798	3148.41
+ORD10604	2023-02-09	Home Appliances	Blender	Corporate	South	Female	20	Card	7	4223	29561	16821.88
+ORD10605	2022-06-14	Furniture	Desk	Online	South	Male	60	Card	13	1709	22217	19513.95
+ORD10606	2023-09-12	Office Supplies	Printer Paper	Retail	West	Female	36	Online Transfer	12	3721	44652	31790.1
+ORD10607	2023-07-05	Electronics	Laptop	Corporate	East	Female	19	UPI	12	745	8940	7321
+ORD10608	2022-03-14	Furniture	Chair	Retail	East	Female	41	Card	5	2877	14385	10586.52
+ORD10609	2024-09-23	Office Supplies	Stapler	Online	West	Female	35	Card	4	2546	10184	6835.42
+ORD10610	2023-02-03	Furniture	Sofa	Online	West	Female	44	Cash	13	985	12805	8670.84
+ORD10611	2024-11-05	Office Supplies	Pen Set	Online	North	Male	50	Cash	2	4060	8120	6058.54
+ORD10612	2023-02-09	Home Appliances	Refrigerator	Online	North	Male	40	Online Transfer	7	2253	15771	11307.02
+ORD10613	2023-11-30	Office Supplies	Stapler	Corporate	North	Female	42	UPI	5	989	4945	3182.66
+ORD10614	2022-06-21	Electronics	Monitor	Retail	East	Female	54	UPI	9	2279	20511	13004.43
+ORD10615	2022-06-30	Home Appliances	Refrigerator	Retail	North	Female	34	Cash	9	781	7029	4079.33
+ORD10616	2023-07-13	Home Appliances	Vacuum Cleaner	Retail	West	Male	30	Card	2	2968	5936	4410.15
+ORD10617	2025-02-05	Home Appliances	Microwave	Online	East	Female	57	Cash	13	650	8450	7091.65
+ORD10618	2023-11-07	Office Supplies	Printer Paper	Corporate	North	Male	60	Cash	13	767	9971	7591.63
+ORD10619	2024-02-28	Furniture	Chair	Retail	West	Male	41	Cash	8	942	7536	5373.1
+ORD10620	2025-07-19	Home Appliances	Vacuum Cleaner	Online	South	Male	58	Cash	11	1115	12265	10582.24
+ORD10621	2022-01-26	Furniture	Desk	Retail	West	Female	33	UPI	3	4660	13980	8564
+ORD10622	2024-07-23	Office Supplies	Printer Paper	Online	West	Male	57	Cash	14	4767	66738	57920.76
+ORD10623	2022-04-03	Electronics	Laptop	Online	North	Male	51	Cash	15	182	2730	2095.71
+ORD10624	2024-03-07	Electronics	Smartphone	Retail	North	Female	49	UPI	6	1736	10416	8957.47
+ORD10625	2024-12-22	Furniture	Chair	Corporate	West	Male	59	UPI	11	2731	30041	20149.32
+ORD10626	2022-01-14	Furniture	Chair	Retail	West	Male	54	Cash	11	1280	14080	8194.94
+ORD10627	2022-03-01	Home Appliances	Refrigerator	Retail	East	Female	57	UPI	9	2618	23562	14327.25
+ORD10628	2024-05-16	Home Appliances	Blender	Online	East	Female	51	Card	4	142	568	357.22
+ORD10629	2024-08-08	Furniture	Sofa	Retail	North	Male	41	Online Transfer	5	4838	24190	13515.07
+ORD10630	2022-02-15	Home Appliances	Refrigerator	Retail	North	Male	58	Card	5	4716	23580	15864.28
+ORD10631	2024-05-08	Electronics	Laptop	Online	East	Female	20	Online Transfer	8	971	7768	6592.93
+ORD10632	2023-11-11	Electronics	Laptop	Retail	South	Male	40	Online Transfer	14	3403	47642	40723.76
+ORD10633	2025-01-28	Electronics	Monitor	Retail	North	Male	42	Online Transfer	15	4559	68385	43214.93
+ORD10634	2024-06-19	Furniture	Chair	Retail	South	Male	49	UPI	15	4978	74670	46241.18
+ORD10635	2023-03-03	Furniture	Sofa	Corporate	North	Male	20	Online Transfer	7	4258	29806	23657.13
+ORD10636	2025-10-21	Electronics	Monitor	Online	East	Male	22	UPI	4	3490	13960	10495.1
+ORD10637	2022-06-18	Electronics	Monitor	Online	West	Female	36	Online Transfer	3	1272	3816	2413.44
+ORD10638	2025-04-22	Office Supplies	Stapler	Retail	West	Male	54	UPI	9	2451	22059	12582.04
+ORD10639	2023-06-09	Electronics	Laptop	Online	East	Female	41	Online Transfer	6	3952	23712	17942.7
+ORD10640	2023-07-18	Electronics	Tablet	Corporate	East	Female	28	Cash	12	3810	45720	27837.64
+ORD10641	2022-07-08	Electronics	Laptop	Online	North	Female	32	UPI	9	4956	44604	27077.56
+ORD10642	2022-02-19	Home Appliances	Microwave	Online	North	Male	43	UPI	9	1633	14697	10763.34
+ORD10643	2023-02-15	Home Appliances	Vacuum Cleaner	Online	West	Female	28	Online Transfer	15	3948	59220	43398.2
+ORD10644	2025-05-26	Office Supplies	Printer Paper	Retail	South	Male	50	UPI	9	3566	32094	20119.4
+ORD10645	2024-10-18	Home Appliances	Blender	Retail	South	Female	63	Online Transfer	3	701	2103	1728.18
+ORD10646	2024-12-10	Home Appliances	Refrigerator	Online	South	Female	25	Cash	13	2697	35061	28636.97
+ORD10647	2022-08-07	Furniture	Desk	Corporate	East	Male	65	UPI	9	1088	9792	6366.85
+ORD10648	2022-02-08	Furniture	Cabinet	Online	North	Male	38	Online Transfer	7	3997	27979	16840.89
+ORD10649	2023-07-31	Office Supplies	Stapler	Retail	South	Male	53	Card	6	1659	9954	5936.89
+ORD10650	2024-05-06	Electronics	Monitor	Retail	West	Male	27	UPI	6	3801	22806	19411.64
+ORD10651	2025-01-08	Furniture	Chair	Retail	North	Female	31	UPI	13	2127	27651	23633.2
+ORD10652	2025-04-06	Furniture	Cabinet	Corporate	East	Male	56	Cash	6	4986	29916	24334.13
+ORD10653	2023-12-21	Electronics	Laptop	Corporate	North	Female	27	Card	11	3438	37818	30950.75
+ORD10654	2025-07-23	Home Appliances	Microwave	Retail	North	Male	55	Card	4	3384	13536	8167.02
+ORD10655	2024-06-23	Home Appliances	Refrigerator	Online	West	Female	40	Online Transfer	13	1415	18395	10318.23
+ORD10656	2024-01-21	Home Appliances	Refrigerator	Online	North	Female	63	Cash	11	2825	31075	26891.72
+ORD10657	2022-05-26	Home Appliances	Microwave	Online	East	Male	28	Card	14	2244	31416	21961.71
+ORD10658	2024-08-18	Office Supplies	Pen Set	Retail	South	Male	61	Online Transfer	2	4049	8098	6126.42
+ORD10659	2022-11-25	Furniture	Chair	Online	North	Male	19	Online Transfer	4	4402	17608	12666.85
+ORD10660	2025-03-04	Office Supplies	Notebook	Corporate	South	Female	22	Cash	13	4278	55614	30811.07
+ORD10661	2024-09-01	Furniture	Chair	Retail	West	Female	63	Online Transfer	4	350	1400	874.55
+ORD10662	2023-02-28	Electronics	Tablet	Retail	East	Female	29	Card	8	2108	16864	14583.93
+ORD10663	2023-02-01	Furniture	Cabinet	Online	South	Male	41	Card	6	2641	15846	10491.97
+ORD10664	2024-08-19	Office Supplies	Pen Set	Corporate	North	Male	44	Card	4	4538	18152	14521.31
+ORD10665	2023-05-25	Office Supplies	Stapler	Retail	South	Male	28	Card	12	4078	48936	38881.85
+ORD10666	2024-09-25	Home Appliances	Blender	Online	East	Male	60	Online Transfer	5	3156	15780	13083.36
+ORD10667	2023-08-11	Furniture	Desk	Online	West	Female	57	Card	11	3665	40315	25748.8
+ORD10668	2022-07-23	Furniture	Cabinet	Online	North	Female	29	Cash	14	4397	61558	53991.92
+ORD10669	2025-10-22	Office Supplies	Notebook	Online	East	Male	62	Card	5	1240	6200	5407.99
+ORD10670	2025-10-07	Office Supplies	Printer Paper	Corporate	West	Male	19	Cash	2	2224	4448	3664.61
+ORD10671	2022-04-19	Electronics	Monitor	Online	South	Female	54	Card	6	2784	16704	14043.61
+ORD10672	2025-04-09	Office Supplies	Printer Paper	Retail	South	Female	32	UPI	4	474	1896	1520.41
+ORD10673	2023-05-11	Electronics	Smartphone	Retail	South	Male	60	UPI	5	3727	18635	10416.14
+ORD10674	2024-07-04	Furniture	Chair	Corporate	West	Female	37	Cash	8	4492	35936	25426.24
+ORD10675	2022-10-19	Home Appliances	Refrigerator	Online	North	Female	53	Cash	13	3456	44928	32663.07
+ORD10676	2024-12-10	Furniture	Chair	Corporate	West	Male	56	Online Transfer	13	1391	18083	14432.26
+ORD10677	2023-05-10	Furniture	Cabinet	Online	East	Male	59	Online Transfer	10	4577	45770	31785.38
+ORD10678	2023-04-06	Electronics	Smartphone	Retail	North	Female	49	UPI	3	1326	3978	3259.8
+ORD10679	2022-01-11	Home Appliances	Microwave	Online	North	Male	38	Cash	3	1476	4428	3569.82
+ORD10680	2023-06-13	Furniture	Cabinet	Corporate	North	Female	37	UPI	13	507	6591	5459.54
+ORD10681	2022-12-22	Furniture	Cabinet	Online	West	Male	54	UPI	14	1257	17598	14943.75
+ORD10682	2023-03-04	Electronics	Monitor	Retail	South	Female	46	Card	13	4285	55705	37282.1
+ORD10683	2024-04-22	Home Appliances	Vacuum Cleaner	Online	North	Female	19	UPI	3	2871	8613	7547.57
+ORD10684	2025-08-31	Furniture	Sofa	Online	West	Male	26	Cash	15	3839	57585	32328.06
+ORD10685	2023-08-15	Home Appliances	Vacuum Cleaner	Retail	West	Male	57	Card	13	1507	19591	15677.26
+ORD10686	2022-02-15	Office Supplies	Pen Set	Online	South	Female	48	Card	15	267	4005	2349.09
+ORD10687	2022-07-01	Home Appliances	Vacuum Cleaner	Retail	South	Female	57	Online Transfer	4	92	368	215.57
+ORD10688	2023-06-30	Home Appliances	Refrigerator	Corporate	West	Male	54	Card	4	664	2656	1930.84
+ORD10689	2022-07-17	Home Appliances	Refrigerator	Online	South	Male	52	UPI	7	4686	32802	27784.32
+ORD10690	2024-03-20	Home Appliances	Blender	Corporate	South	Male	46	Online Transfer	10	2460	24600	14419.75
+ORD10691	2022-11-19	Home Appliances	Vacuum Cleaner	Online	East	Female	63	UPI	13	35	455	354.09
+ORD10692	2024-03-16	Electronics	Laptop	Corporate	South	Male	63	Card	15	4077	61155	47277.16
+ORD10693	2025-01-26	Office Supplies	Pen Set	Online	East	Male	31	Cash	8	2656	21248	12377.22
+ORD10694	2022-10-20	Office Supplies	Stapler	Online	East	Female	38	Card	14	3688	51632	39987.01
+ORD10695	2024-10-31	Electronics	Monitor	Corporate	North	Male	30	Card	9	782	7038	5847.33
+ORD10696	2023-01-29	Electronics	Laptop	Retail	East	Female	51	Online Transfer	9	141	1269	752.21
+ORD10697	2023-04-04	Home Appliances	Blender	Online	North	Male	50	Cash	10	3934	39340	22858.99
+ORD10698	2022-07-01	Electronics	Laptop	Retail	North	Female	18	Cash	3	4666	13998	10511.22
+ORD10699	2023-01-05	Home Appliances	Blender	Retail	West	Male	28	UPI	13	4683	60879	40025.51
+ORD10700	2022-02-10	Furniture	Sofa	Corporate	West	Male	55	Card	12	2083	24996	15002.85
+ORD10701	2023-12-02	Electronics	Laptop	Corporate	South	Male	45	UPI	8	1477	11816	9365.53
